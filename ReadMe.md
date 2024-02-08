@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá Meu Nome é Weslley Machado Elias  Sou Estudante <br>de Front-End , e Formado em Ánalise Desenvolvimento de Sistemas<br>Apaixonado em tecnologia.<br>Estou em busca da minha primeira oportunidade profissional na área<br>de TI, pronto para contribuir e crescer em um ambiente dinâmico.<br>Sou um estudante dedicado e estou constantemente aprimorando<br>minhas habilidades.<br>Minha capacidade de aprender rapido e minha paixão por resolver <br>problemas tornam-me um candidato ideal para integrar equipes<br>de desenvolvimento.<br>Estou animado para começar minha jornada e colaborar em <br>projetos inovadores.<br> 
+Olá Meu Nome é Weslley Machado Elias  Sou Estudante <br>de Front-End , Cursando  Ánalise Desenvolvimento de Sistemas 4 Semestre <br>Apaixonado em tecnologia.<br>Estou em busca da minha primeira oportunidade profissional na área<br>de TI, pronto para contribuir e crescer em um ambiente dinâmico.<br>Sou um estudante dedicado e estou constantemente aprimorando<br>minhas habilidades.<br>Minha capacidade de aprender rapido e minha paixão por resolver <br>problemas tornam-me um candidato ideal para integrar equipes<br>de desenvolvimento.<br>Estou animado para começar minha jornada e colaborar em <br>projetos inovadores.<br> 
 
 
 ## 🌐 Socials:
